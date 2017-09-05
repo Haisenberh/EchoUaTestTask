@@ -1,0 +1,14 @@
+# Which browser to use
+defaultBrowser = CHROME
+
+# Timeout in milliseconds to fail the test, if conditions still not met (Default value: 4000 milliseconds)
+timeout = 6000
+
+# default url for platform
+baseUrl = https://www.yasmarinacircuit.com/en
+
+# super admin username
+userEmail = it-support@aristotlecircle-stage.com
+
+# super admin password
+userPassword = password
